@@ -1,5 +1,3 @@
-
-
 # Terraform + Strapi on AWS EC2
 
 **Infrastructure as Code (IaC) Assignment**
@@ -221,6 +219,8 @@ This approach improves **reusability**, **readability**, and **scalability**.
 ✔ Modular Terraform structure  
 ✔ Strapi deployed successfully  
 ✔ Secure repository practices followed
+
+**loom video link:** https://www.loom.com/share/779bd399d61d472eba7cf7fd80d1eeaa
 
 ---
 
